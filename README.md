@@ -8,3 +8,7 @@ A couple notes for myself. Issues that I haven't investigated yet.
 * I still don't know JavaScript, HTML and CSS well. 
 * Read above again.
 * I procrastinate. Ugh.
+
+
+9/14/2022
+One more commit for testing. Thanks.
