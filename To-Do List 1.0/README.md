@@ -12,3 +12,6 @@ A couple notes for myself. Issues that I haven't investigated yet.
 
 9/14/2022
 One more commit for testing. Thanks.
+
+Link: 
+https://www.youtube.com/watch?v=-pRg_daFjfk&t=305s&ab_channel=learn-webdev
