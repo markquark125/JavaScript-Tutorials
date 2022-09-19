@@ -11,9 +11,14 @@ Following a tutorial from YouTuber TylerPotts. Will update as needed.
 
 * The `<form>` tag is used to create an HTML form for user input.
 
-* The `<section>` tag defines a section in a document.~1~
+* The `<section>` tag defines a section in a document.
 
-~1~ Both the tags (<div> and <section>) are used in the webpage, <section> tag means that the content inside relates to a single theme, and <div> tag is used as a block part of the webpage and don’t convey any particular meaning.
+* Both the tags (`<div>` and `<section>`) are used in the webpage, `<section>` tag means that the content inside relates to a single theme, and `<div>` tag is used as a block part of the webpage and don’t convey any particular meaning ([GeeksforGeeks](https://www.geeksforgeeks.org/what-is-the-difference-between-section-and-div-tags-in-html/#:~:text=Both%20the%20tags%20(,is%20called%20a%20division%20tag.)) ). 
+
+## CSS code notes
+* The `root: {}` selector matches the documents root element. In HTML, the root element is always the html element.
+
+* `rem` stands for "root em", a unit of measure that represents the font size of the root element. This means `1rem` equals the font size of the `html` element, which for most browsers has a default value of 16px. Using rem can help ensure consistency of font sieze and spacing throughout your UI.
 
 LINK:
 https://www.youtube.com/watch?v=MkESyVB4oUw&ab_channel=TylerPotts
