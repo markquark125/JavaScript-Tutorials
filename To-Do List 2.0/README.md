@@ -22,3 +22,8 @@ Following a tutorial from YouTuber TylerPotts. Will update as needed.
 
 LINK:
 https://www.youtube.com/watch?v=MkESyVB4oUw&ab_channel=TylerPotts
+
+## JavaScript
+* Oof.
+
+## NOTE: How can it save the list if you refresh the page??
